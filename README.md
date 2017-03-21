@@ -61,7 +61,9 @@ The Maker key is used to uniquely identify your Maker service from someone else'
 ## Setting up your development toolchain
 To make things a bit easier, you will use the starter code available in this GitHub repository. You will create a toolchain with a copy of the code, a pipeline to build and deploy the code, and even an editor to tinker with the code. Sounds like a lot of work? Not really! With just a few clicks, you will be all setup.
 
-1. Begin by logging into [Bluemix](https://bluemix.net/devops).
+1. Begin by going to Bluemix and navigating to the Devops Services by either:
+  - Navigating to: https://bluemix.net/devops  or
+  - Selecting the hamburger menu near the top left of a page in [Bluemix](https://bluemix.net) and selecting Services-->DevOps.
 1. The view will be slightly different depending on if you have any existing toolchains, but in either case click on **Create a toolchain** to continue.
 1. Click on the **Simple Cloud Foundry toolchain** template. This template is a great way to get started when developing a simple Cloud Foundry app.  
   ![Toolchain Templates](assets/README-c8c04.png)
